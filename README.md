@@ -1,12 +1,5 @@
 # Halo semua! 
 
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 Perkenalkan nama saya **Gilang Ramadhan**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
@@ -21,3 +14,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 Hi, I’m Alfian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🌱 I’m currently learning Python and other interesting technology.
+
+<p align="left">
+<a href="https://github.com/alfianfakhrudin2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
