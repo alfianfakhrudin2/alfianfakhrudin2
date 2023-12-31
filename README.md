@@ -2,7 +2,7 @@ Hi, I’m Alfian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
 
 🌱 I’m currently learning kotlin and other interesting technology.
 ![Profile Views](https://komarev.com/ghpvc/?username=alfianfakhrudin2)
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alfianfakhrudin/) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alfian-fakhrudin-9285b5216/) 
 
 <p align="left">
 <a href="https://github.com/alfianfakhrudin2">
