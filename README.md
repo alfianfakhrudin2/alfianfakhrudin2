@@ -1,7 +1,5 @@
 ### Hi, I’m Alfian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-
 ### 🌱 I’m currently learning kotlin and other interesting technology.
 ![Profile Views](https://komarev.com/ghpvc/?username=alfianfakhrudin2)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/yanfk27/) 
